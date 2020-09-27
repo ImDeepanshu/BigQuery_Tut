@@ -1,0 +1,5 @@
+1. Ingestion of DBs.
+2. Create your own DB in BQ.
+3. Schedule your query - result of this query.
+4. Connect with GDS (google data studio).
+5. Sent mail to concerned team.
