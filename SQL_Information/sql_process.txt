@@ -1,0 +1,2 @@
+Multiple DBs in SQL.
+One may refer this for BQ initial proces.
